@@ -1,0 +1,934 @@
+ngl this was just a giant twilio advertisement
+are you mr beasts39 father lol why do you look like you could be his father you even sound like him at times
+i would like to reach out to you i have been brainstorming about white labeling a already developed app and not quite sure how to do this can we have a conversation look me up on google flex transportation services llc out of waukesha wi thank you
+bro looks like old version of jimmy
+bruh for real
+great but the dad jokes and faff is really annoying learning is not about unnecessary distractions
+good tut but it is very hard to follow the spotify developer is totally different right now92025 that is presented and even for twilio you need to provide your phone number and whole bunch of personal data it took instructor to setup twilio on this video almost 10 minutes
+mr beast
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt441721a
+definitely craig is the best i just had the opportunity to see this video and i am totally engaging in apis
+i understand theory part but i don39t understand what are you doing
+dont worry if you are a beginner it is expected that you wont understand the coding part
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt137217a quotso now i have copypastaquot
+those who have stuck with thunderclient can use echoapi
+collections are not available on the free version of thunder client
+i am not getting any of it is it a normal syndrome
+api is not a beginner level topic you have to have a lot of background knowledge its ok
+avichiii
+i am not able to find spotify gt console does it still exist
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt530850a a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8071327a
+is there any prerequisite required for learning this course the educator
+ohh yes a lot he will say you dont need any prior knowledge but you do
+jus started learning about api39s i can39t spot the curl request on my spotify consoleurs seemed to be at the topbut mine isn39t althoughi am using my android device for this so i39m guessing the layout must be differentany advice
+found it
+but after i copy the curl thing and paste it in the terminalit returns status401 message invalid access token  what can i do
+i tried the getrequest on my terminal they all came back as statusfailedwhat do i do
+do i need the 39messangerservicesidtoken39 for this
+are you using cmd by any chance
+best lecture but too many ads
+unecessarily long video
+i don39t know anything about api does this course cover everything about rest apis
+no you need to refer other resources
+i can39t get access it39 say 401 and invalid token feel stuck if anyone wants to help
+i had the same problem turns out you can39t simply click the quotget tokenquot button and select your scopes anymore for example at the minute a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt21263526a you can see something like quotuserreadplaybackstatequot in the checkbox options which you would need to select if you wanted to play a song for example you need to do this the manual waybrbrimportant advice copy paste this into chatgpt or claude and they will guide youbrin more detail if you need to also these commands work in windows but if you39re using mac or linuxbryou need to ask an ai to rewrite the curl command so that they work on your current osbrbrhere39s how to actually get a user access token with scopesbryou39ll need to do the authorization code flow manually here39s the stepbystepbrbrcreate the authorization url replace yourclientidbrbra hrefhttpsaccountsspotifycomauthorizeresponsetypecodeampclientidyourclientidampscopeuserreadplaybackstate20usermodifyplaybackstateampredirecturihttplocalhost3000callbackampshowdialogtruehttpsaccountsspotifycomauthorizeresponsetypecodeampclientidyourclientidampscopeuserreadplaybackstate20usermodifyplaybackstateampredirecturihttplocalhost3000callbackampshowdialogtrueabrbrvisit that url in your browser  you39ll be asked to log in and authorize your appbryou39ll be redirected to something likebrbrhttplocalhost3000callbackcodeaqc4o2vudeomdopdubhbrbrcopy the code parameter from that urlbrexchange it for an access tokenbrbrbashcurl x post quota hrefhttpsaccountsspotifycomapitokenhttpsaccountsspotifycomapitokenaquot brh quotcontenttype applicationxwwwformurlencodedquot brd quotgranttypeauthorizationcodeampcodeyourcodeampredirecturihttplocalhost3000callbackquot bru quotyourclientidyourclientsecretquotbrbrthe response will include your accesstoken with the proper scopesbrif you get the quotinvalid redirect uriquot error means the redirect uri you39re using in the authorization url doesn39t match what39s configured in your spotify app settings
+thank you for empathizing with your learners it feels like i39m listening to my best friend talk
+honored to be your api bff
+i hate i hate i absolutely hate watching long boring educational videos but you39re such a fun educator it didn39t even felt like a lecture i39m so into watching the entire course
+that was a rollercoaster of a review
+craigsdennishaha
+awesome
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt575213552a i39m a bit confused what does the query do and what needs to go in the body
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt69109a why do you have twilioauthtoken to be spotify api token aren39t those two unrelated apis
+this course will help me for qa role
+thank you stranger for making this helpful video i appreciate it
+thank you stranger for the comment
+buddy made a pp joke in the middle of this session
+agreedhe is one of the best educators on the web
+thank you
+except for the great content i really do appreciate your sense of humor
+mr beast from coding background
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt7921312a by this time i was already overloaded with info and listening at 075 speedbri really love his style of teaching its so fun and absorbable into my dense brain
+guys are you facing the same problem on twilio i couldn39t find the message resource
+naaahdis mr beast older brothermr beastier
+i was in a coffee shop while saying quotpquot
+he looks like mrbeast if you notice carefully
+hi i want to learn about apis but i want to know a learning path before i start the video which path should i take
+look at me im relatable pleasei just want to learn about apis
+great stuff but the problem is i understand but when i see and code its fine otherwise blankany suggestions
+bro this is a huge help  i am watching this to learn about apis as a beginner developer
+hi craigbrhow did you send a message that you are referring at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt932323523abrplease assist thank you
+also lesson has an impressive api to interact with students thanks guys it best of all i have ever learn
+he39s fairly annoying
+spotify docs changes twilio docs changed thunder client is now behind a paywall but it39s still good to learn the theory of api rest and the pace of the course with pauses is great just sit back and watch
+yeah couldn39t complete any of the demos more or less but it39s still a good vid
+such a lovely teacher lt3
+peace thank you
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt9401540a ada indonesia bjir
+thanks very much for the videos really insightful brbut from security perspective i will just say when your editing the video you can just blur any sensitive information
+thank you mr beast of development
+i thumbed through the project in the last hour of this video  i noticed it involved twilio  i39m at my wits end with twilio  i can39t get the phone number verified  i signed up 20 days ago and i have tried 3 times to verify that number  in the second time over two weeks went by before they rejected my verification  there is no help and there is no way to contact twilio
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8401400a
+im sorry i didnt understand how to use an api other than twiliosomething in general
+this explanation is pretty good
+please i need help with the teachers note the link isn39t working
+i kind of focused in on the spotify apis  i have spent some time with them  i was having some trouble with curl  after long discussions with chatgpt i decided to use request in python on my jupyter notebook  is this the same as using curl  in any case i haven39t even looked at postman yet
+in a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt6211021a why is the upper function in python used for making all characters in a string uppercase called the api
+all agree with some of these comments  we are not getting enough information  i39ve just spent over an hour trying to figure out how request a token on spotify  at least on my spotify there is no quotrequest tokenquot button  i finally got a token but i had to go through chatgpt and write a python code just to get one
+you could have gotten the token directly from your terminal tho
+man you have no idea how right you were at least i kinda got practice while trying to figure it out took like a hr
+hoopernamedbran3875 laughinghave you tried to go to the twilio account yet  at least with spotify there was a work around  at least for me twilio was a lot worse  but the big problem here this is suppose to be a video to learn about apis  i39ve spent way more time jumping through the various hoops with spotify and twilio just to get the tools that this guy requires
+larryhatcher8927 yeah i couldn39t figure out how to refresh my token for spotify i39m gonna just watch it through at this point and then hop on to another tutorial
+at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt456311603a at quotherequot what and where is he using opening
+to many information make it simplier dudesorry but dislike
+i woke up to this wow
+i was pretty much keeping up then we got to twilio  i created an account created a phone number  then i tried to verify the number  i kept getting a popup asking for a business name and url  i never got pass that
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt46046a
+he will tell you what needs to be done but will never tell you how to do it buddy what was the purpose of this video
+mr beast39s  a programmer in an alternate universe
+i have to go back through unit 1 a few times take naps and then come back again i understand it overall but don39t know how it works
+best citation ever at min a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt22213701abrlove u bro i mean big poppa
+one of the best videos on api and explainationbrbrthe teacher is an absolute master of the craftbrwhat all videostopics has he taught here or anywhere elsebri would love to understand topics from him
+is this an ad for trillio  a hrefuckszu2wh9gy1mb0dv11ujge8mfy5u7jpsxknap95gamaea
+quotshe would take that api dev to red lobsterquot
+mrbeast be working too hard these days
+to be honest started off well but how the extension and the app works is poorly explained
+idk if its just me but why he look like mr beast
+great content also you have quite a good resembelence with rick of pawn stars
+best chanel ever
+i was always running away from apis but looking at this video and how easy you have made this for everyone is outstansding  thank you
+me too same thought
+i can39t find the spotify console anywhere their website looks to havebeen completely revamped is there a help page for that
+the console is at the bottom of the page
+didnt find it either
+hah mrbeast what are you doing here
+i can39t unsee it now
+i like his shirt
+so interesting personality wao really was so confused about api but mr api is next level
+quotintresting dataquot i see what you did there
+hello guys was anyone able to access the teachers notethe link is not working here
+the link still works for me but now it says quotthis repository was archived by the owner on may 13 2025 it is now readonlyquot
+kennethphotography is it working for you now
+emmanuelgrant312 yes still loads for me with the message about it being archived and readonly
+really nice thanks for sharing this course a hrefuckszu2wh9gy1mb0dv11ujgrocketredcountdownliftoffa
+we should use the 39faux api39 platform to create free unlimited storage and apis
+if anybody watching  in feb 2025 brand stuck on  a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt23463906a on spotify dev mode  oauth missing brbr1 you don39t need to generate o auth  the api create auth token itself  bryou need to input only  q and type brbr2  if any body stuck 401 error 49 07br first create mobile app from spotify developer dashboard br second you can use postman to get bearer token brbr it helps me in first two step bra hrefhttpswwwyoutubecomwatchvn34bm2cu3ghttpswwwyoutubecomwatchvn34bm2cu3gampt996sabrbr now you can copy token bearer paste in curl br i am using window power shell for command brbrbut the output format is really bad format  you can try another sources except command worst for mutiline
+thanks a lotbrbrsth i want to add to thisbrwe can use git bash too
+the course is good but you should go straight on pointstoo much useless bla bla bla
+i have a better name for it  i call it bullshit  also  both spotify and twilio gave me a ton of problems  this course is outdated and strays off course on almost every point
+where do u find the notes of this video that is discussed in the first few minutes of this video
+love this tutorial but i can access the notes
+i cannot find the console tab on spotify for developerswhat may i be doing wrong
+same here if you found so please put it down here it will be helpful
+mohamedshakeel146 they combined console with the documentation
+waste of my time at 44 min he says hes using mac and he does no know windows wow
+this is one of the best educators on the web  he doesnt put me to sleep and actually makes sense
+thank you so much
+hy folks it39s true he is veritasium39s elder brother
+unfortunately twilio has massively downgraded their documentation  it looks so nice and easy to use on the video but now it is not user friendly especally for beginners who would be the first ones to use it a real shame
+yeah it seems like most of the stuff that he talks about twilio api collections at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt626314423a is now gone or at least set to private
+i got an error message code21608 even though my number is verified is it possible its cos its a nigerian number i rechecked and its verified on twilio
+this is really the best video to watch to understand api39s properly so well done and easy to follow
+y l mt bc tin ln ca cuc cch mng gio duc mnh thy tht tuyt vi
+so neat images icons and language easy to follow along
+this is awesome thank you for making this free lt3
+bro is a great teacher btw
+i wanna thank quotbeyoncequot
+love the content but dude is a beyonce stan fr
+craig dennissir i love you and your way of teachingfeels so good to learn i am missinng my childhood teachers who used to teach like this and every concepts went deep down that lasts long thanks
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt34265706a
+uniform design not uniform interface a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt1101930339a
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt462011700a bras someone named roxanne i can safely speak for other roxannes when i say we are super tired of people singing that song to us
+quotthank you spotify for beeing so inclusivequot blah blah blah i feel sick hearing that crap
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt29524912a copy pasta
+
+i am exploring back end and i have used the api many times but still couldnt get the accurate grasp of it which overwhelms me and i just have started this video and the amount of work that has been done in this video is outstandingits friendly interactive and he explains in grass root which is my preferences to learn evrerthing thanks to this channel and instructor
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8301350a
+more than an api course this course feels like a deep dive into the twilio website
+great
+i am not able to send messages  to my twilio phone number using my indian contact no  has anybody faced the same issue if yes how did u resolve it
+thank you very much sir it really helped me a hrefuckszu2wh9gy1mb0dv11ujgm8mfy4jbfswjhl0pyoua2akaa hrefuckszu2wh9gy1mb0dv11ujgm8mfy4jbfswjhl0pyoua2akaa hrefuckszu2wh9gy1mb0dv11ujgm8mfy4jbfswjhl0pyoua2akaa hrefuckszu2wh9gy1mb0dv11ujgm8mfy4jbfswjhl0pyoua2aka merci beaucoup
+this is the best api course which i have found in this globe  my only request will be have a much more interactive thumbnail i had this video in my feed for around a year or two but for some reason ibr didn39t click on it to watch it oh wait ibr know the reason it is simply because i didn39t find the thumbnailbr appealing i39m just giving mybr opinion here and the best thing which ibr learnt apart from api is don39t judgebr a book by it39s cover or neverthelessbr a video by it39s thumbnail  bybr the way a heartfelt shoutout to thebr instructor who made this course in sobr much interactive and fun manner
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt935523555a how did he sent the message  through the sms or what
+same i also want to know that i am not able to send message as  these are us based nos and my verified no is 91 india
+bro i am also stuck in that if anyone knows the answer please let me know
+wheres the link to the tutorial explaining how to make my own api
+truly amazing it was truly amazing take a break and enjoy rest
+thank you for the tutorial but the teaching notes are not accessible the links are not working
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt33615601a that was a horrible joke
+wth the ads are getting long and cant skip them
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt560920a
+the best way to understand the apis is to talk about the windows apisbrif i make a desktop application in which the user will open files save or save asand print or sharebrit will be insane to write into my application all the code needed to make new application quotcommon user dialogue interfacesquot that opens or saves as or printsor sharesbrwhy should i do that while windows provides small programs and routines and common dialogue boxes that can do all thatbrand all i have to do is to summon them from windows system brone to open any filean other to save as and choose the output extensionan other to open the print page or share or copy pastebrit wood be insane to rewrite similar quottoolsquot or quotroutinesquot or name39em what ever you want they39re just simple quotapisquotbrthey are programs that windows provides for himself first and for all any other tiers or user39s programmed apps to make life more easy for allbrand those are just a few samples from a long list of apis that windows and tiers offer like a drop of water from a big ocean
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt4049010729a
+this guy is the best tutor ever we need more tutors like this
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt10801800a
+you should really change the title of this video and add quotfor mac osquot because it39s not really for beginners if you39re using windows i managed to get most of the thing you did to work but it did take quite a bit of googling and doing extra thing that are not mentioned in the notes many people would just give up and watch something else as it does take time to make this work on windows and it take away from the learning flow
+you only needed to know how to set up your terminal if you aren39t willing to research that on your on then being a developer is not for you
+thanks
+oh well well that was fun
+the introduction is too long he just talks and talks about so many issues does not go into the concept of the course
+why does this dude looks like me beast
+same bri39m currently watching dark2017brcan39t help but think he39s mr beast himself from the future lol
+i love the way you talk to me makes me feel like i understood it did i
+this is my first foray into api programming the expected changes to spotify mentioned early in the video are quite apparent as are considerable changes in twilio making the training difficult to follow i39m constantly having to pause the training to dig through the website to locate the relevant pages in order to follow the training path the information contained is very thorough and appreciated but it definitely needs a complete update
+excellent introduction to apis
+pause again a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt585913739a
+the feelings of this training is more and over bri really enjoyed watching it
+today39s lesson brought to you by spotify
+terima kasih
+informative
+i39m sorry craig but this needs a 2024 version from the for developers page update
+spotify doesnt have the console in this verson quotat a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt23333853a how do i use the commandsquot
+you don39t just watch that part or you can skip to twillio if u want
+it doesnt have console but you can get the same functionality in search but still  spotify isnt giving authorization bearer token  so got stuck at that point
+skyd3vs thats what i got really frustrated after trying to find it until i saw your comment thanks
+hola me gusto ur utub
+at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt201321a  paraphrasing you say that you will avoid the curse of knowledge few are wise enough to know this i am impressed and will continue
+your voice sounds sped up already
+good job
+you said expire whats the use of the deeper meaning and function of the front end and back end likened to the observable and none observable universe of its former coils or time loop
+what had happened before already happened and is to happen in connection to your said words done already by others those are the basics the collection of raw materials the point what can you do we do or i do from those basics of wisdoms each about its layers applications in real time
+why he look like the  shawn michaels  wrestler
+the gigabyte terrabyte etc contains hundreds of songs each songs can be programs complete with strings notes wavelengths sound types and ranges frequencies genres lyrics of contents moods varying speeds and indents the reason why angels use that for their functions
+bike just like holywood films look at the film there seems to be a pixel each side
+bike  a balancer or check and balance of sort or can be a to and fro of time of its interlacing metal cord forming an infinity of 8
+lo ms importante en lo que todos deberan pensar ahora es cmo invertir en diferentes fuentes de ingresos que no dependan del gobierno especialmente considerando la crisis econmica actual en todo el mundo  este sigue siendo un buen momento para invertir en varias acciones como oro plata y monedas digitales todo gracias a trader conrad por capacitarme
+wow that is great news  thank you
+i39m having issues with the twilio message sending it says my number isn39t verified anyone else experiencing thisi39m in africa
+he did
+he39s the david j milan of apis
+apibritapiapi
+also in the course of learning it39s a good idea to watch the video multiple times i39ll usually start each learning session with rewatching what i39ve learned the day before not only does it help for the knowledge to sink in but you pick up the bits you didn39t pick up the first time and sometimes a single word or sentence repeated is enough to commit something to memory for life i39m 54 years old and have been a systems engineer my whole life and have interacted with many api39s including the twitter api the wordpress api various gaming api39s i watch this sort of thing fairly regularly as computing is a fast moving field with many concepts learned either fading out with time or replaced by newer technology this is super important if you are currently working to keep abreast of emerging technologies you may need for upcoming projects or jobs
+when is saint seiya
+this course is really amazinggg
+another great video azul  were also very keen to see what happens from outside the usa  some great points made  its important to have a long term perspective
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt20903450a quoti would probably search for beyonce i mean right wouldn39t youquotbrbrdamn he knew
+wow
+maybe spotify has changed since  this was  filmed but  i cannot replicate what you are showing i can39t get the quotconsolequot page if i type in that same url i39m redirected to  documentation anyone else getting this  thanks
+you have just gained a full regiment of followers bri put my phone down still playing because i was afraid that i wouldnt be able to find the video again group of recruits were listening and i must say very politely asked if i could quotairdrop the video to the classquot brbri can hear them listening to it in the dorm right now
+as a cc developer i think json is the api the methods you call through internet is more of a communication interface i sure know how to make various kinds of image transformations
+pause a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt30725112a
+great teacher
+keep waking up in the middle of the night with this video on
+the grind dont stop baby
+awkward a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt11801940a
+why not take a cat nap a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8251345a
+phil collins a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt9101510a
+that is what the browser api does a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt6181018a
+binging a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt165245a
+chipmunk a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt148228a
+video 2  using an api from the command line is sooooooo frustrating to learn in windows command prompt
+ayo mrbeast
+all for oneone for all nice project
+personally after completing the whole course i won39t suggest this course to anyone who wants to learn about apis seriously it felt more like explanation of various api tools from the second chapter rather than actual api related knowledgebrbrit is still a good course with a practical approach in explanation and can be taken if a fun way of learning things is your style but not for when you need immediate information or binge learning
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt20973457a should we thank her first
+can we get a david attenborough style tutorial
+excellent introduction of api absolutely  the way it was taught
+this course is quite good however it woul39ve been better if it was focused for people who already know how to code because who the hell would try to learn apis without coding knowledge
+johnson angela moore mary anderson sarah
+hackett centers
+priversy polices duckduckgo so  so browser
+craigs 100 a democrat with the rant about inclusivity
+not for beginners
+word for word brilliant video my friend
+absolutely love him he is ryan renolds of software world with his jokes
+contents brunit 1  what is an apibr video 1  welcome a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrw00000abr video 2  defining interface a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt29000450abr video 3  defining api a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt52900849abr video 4  remote apis a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt83901359abr video 5  how the web works a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt109701817abr video 6  restful api constraint scavenger hunt a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt140102321abrbrunit 2  exploring apisbr video 1  exploring an api online a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt174602906abr video 2  using an api from the command line  a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt270104501abr video 3  you go curl a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt338005620abr video 4  using tools to explore apis a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt446111421abr video 5  more tools for your api exploring toolbox a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt578013620abr video 6  using helper libraries a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt651414834abrbrunit 3  all together nowbr video 1  introducing the project a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt813021530abr video 2  serverless a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt861022330abr video 3  writing a server side api a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt942823708abr video 4  fetching results on the client from our server a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt1061425654abr video 5  wrap up a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt1112930529a
+thanks alot
+spotify isn39t a good example because it isn39t available in my current regionbrtelegram bot apis would be a better example
+this tutorial is exactly what i needed everything is explained so clearly even for a beginner like mei39ve watched several api tutorials but this one breaks it down in the most understandable way such a wellstructured course you made apis seem a lot less intimidating than i thought
+crooks circle
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt21263526a
+explanation seemed nice until he started talking about twiliohe just switched somehow
+hibri have my excel file which is updated through an odbc connection but how can i syncconnect that excel data into google sheets that could be updated automatically in periodic intervals any solutionbrthanks
+lopez donald hall barbara martin lisa
+awesome jobbrfeels like watching saul from better call saul
+what is tom keen doin here when did you start teaching againbrbr
+36k
+706
+hello i39m on the spotify website and it39s difficult to follow along because the ui change is much less visual and literally things are not at the same places i can adapt i just wanted to voice the difficulty as i might not be alone i know it39s frustrating to have a video you post hit so differently already the next year
+are you mr beast uncle
+his positive attitude is making me upset brim going to go watch 3 hours of louis rossman to balance it out jk this was a great video
+what i dont understand is at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt786021100a or at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt732020200a how you would know that you can even use msid or remove do you have to look at the object you get when you consolelog to see that
+when i try to post the sms at around thea hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt70110a mark i get from curl quoterror 3 port number was not a decimal number between 0 and 65535quot any ideas why
+you have to replace auth token with your actual guid auth token
+this is so entertaining  excellent job
+thank you guys so much for your unbelievably well organized content i hope there is an extra place for you guys in heaven
+hello i would like to do automation with the abbey of an image editing software but i am not sure that this idea is good and above all feasible can you tell me what you think about it
+freecodecamp what39s the difference between an api an a library
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt803821358a
+didn39t know mark rober taught at freecodecamp and when did he go bald
+b5 minutes inb why was was 39rest39 capitalized in interesting in the captionsbrb18 minutes inb you cheeky ba
+u can literally skip the first 1 hour  i don39t know how come so much positive reviews
+why does he look like mrbeast
+why would you make such a big deal about inclusivity and then go call mr knowlescarter by his former name not cool big poppa you should know he hates that because how it went with his id pick a message i39m not just quoting his majesty boyd g39s new single secondnewest whatever same thing
+if it39s quothelpfulquot to know intro coding and quothelpfulquot to know how the web interface works then i would remove the word quotbeginnerquot from the title
+it39s begginer for starting on api39s of course you need to know the most basic stuff about it
+you man just wanted to say that you are very cool at explaining this stuff
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt588013800a
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt28804800a curl
+i39m getting punneled here
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt11751935abrsometimes u get got
+here to add comment since not anything in recent  in this dry api you try to use as much jokes you could use to make it more interesting for us to learn  thanks for making this video for us with tremendous effort
+idk if theres anyone who learned photoshop or graphic design online as well but craig is the deke of software development
+who is with me he is looking like a mrbeast
+i lost it when you said quotwho runs the terminal curlquot lol
+update this using a different api maybe obsidian api
+quoteducation isn39t meant to be bingequotbrbrbbinges 3 hours courseb
+3145
+excellent tutor
+quotgive yourself some patiencequot
+as of right now if you try to do the little trick with the alias on the email spotify sees right through it and if you already have an account with that base email it will not let you create a new account
+i would also for sure search for beyonce
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt29114831a i didn39t install  curl on windows 11 but when i type curl followed by the uri then i39m getting the complete response like the status code content in html raw content etc did anyone else tried the same
+worst course on apis
+why
+sir it39s a big boned arrow  or an arrow function
+i39m getting an error message every time i try to copy a multiple line command into the terminal i tried pasting it line by line but then the command doesn39t runs into an error not sure what to do with this
+dude you are the perfect instructor
+best api course ever really enjoyed the manner of craig
+this video does a good job of answering questions i had roughly the same time i had them thats a tough tightrope to walk as an instructor and i really appreciated the consistency with which it happened brbri researched the google trick and immediately got suspicious when he showed that we can essentially create bot accounts and each one gets 15 its nice when a person you can39t ask questions of consistently answers them anyway
+when i am in twilio i cant get in the twilio docs sms page it always ask for log in but after i log in again the twilio docs page ask for log in again
+i39m just starting with backend developing and this helped me a lot thank you
+anyone else having trouble with the pictures showing on the website
+yup
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrw0000a learn about apis and their benefitsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt3100510a interfaces and apis abstract away implementation details for users and developersbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt9721612a rest revolutionized remote apisbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt12932133a rest apis use http protocol and headers to communicate with resourcesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt19043144a spotify api uses rest principles and requires authorization for specific databra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt21643604a creating a new spotify account for developersbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt27604600a learn how to use curl to make api requestsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt30265026a learn how to navigate and query urls using jqbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt35845944a learn how to use twilio apis to send text messagesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt384810408a learn how to send sms using twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt440211322a explore apis with visual tools like postman and rest foxbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt468611806a learn how to filter incoming messages using twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt528612806a switching from get to post for sending messages with twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt559613316a using environment variables in rest clientsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt618414304a postman is a powerful tool for exploring apis and generating codebra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt645414734a helper libraries or sdks can make code more concise and legiblebra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt704215722a using asynchronous javascript to list messagesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt733920219a learn about asynchronous javascript and catching errors with promisesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt792721207a helper libraries abstract away http api callsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt822221702a setting up a local web server to view indexhtmlbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt881522655a serverless solution allows worryfree scalingbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt912623206a create a messaging response with twiliobra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt970124141a using twilio functions to access twilio rest clientbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt999824638a create a gallery of images from twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt1056825608a creating and consuming apis using fetch and jsonbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt650105a understanding restful api constraintsbrcrafted by merlin ai
+professor you never got the message from twilio on your phone the status clearly says undelivered
+not recommended it39s outdated and not even supported notes after completing of a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt540013000a minutes don39t watch it please
+are u mrbeast related u sound same and looked same as him lmao
+stop
+twilio and spotify portion of this does not work
+you got to love his great sense humor
+you finished the course
+day1 a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt10851805abrday2 a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt27014501abrday3 a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt390210502a brday4 a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt436211242a
+why did u stop bro
+great vid love it i am having difficulty with all the demo39s so far as non of them work the way you describe in the vid spotify now required you make a api app to get the token twilio keeps giving me errors saying my phone number is not authenticated so i havent been able to do the rest
+what do we do if the access token for spotify expires chapter 2 video 2
+omgosh he is an amazing presenter thanks craig
+i really enjoyed the video however the trial twilio account did not work for me apparently twilio now only issues toll free numbers for trial accounts and those numbers can only be verified by business entities i reached out to support and was told the only workaround is to purchase a non toll free number
+twilio exercise definitely didn39t work
+is there any marketplace or place where we can go and find any api we want eg googleyoutubetwitch etcs
+here is what i want to know why do i every night wake up to your videos im not subscribed im not into coding but subliminally youtube is subconsciously forcing me sense im asleep when it just decides to play this
+i think you39re gonna have to update spotify part other than that amazing indeed thanks a lot
+did the spotify part worked for you
+monickverma2944 nope
+i wish this guy didn39t sound so damn annoying
+your lecture was interesting it was fun and i39m sure it was very helpful by many people39s commentsbri feel like i still didn39t grasp 100 of what you talked about the first time i may need to review it many times thanks for the useful video
+you should take away the word beginners from the title
+slightly funny and helpfull at the same time
+i wouldn39t hire this joker
+sorry this video is outdated
+matheuscastelo5076 follow the tutorial and you gonna see why
+i guess so could you suggest a newer one for me im struggling to understand the whole api backend stuff
+know quick the spotify developers page changed and now you cannot get the token
+this looks like nothing  more than twilio sponsored video
+so i need a break every 15 mins i wouldn39t get anything done this way
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt651414834a
+what if identified yourself as robot should you still click im not robot
+don39t use spotify as a resource the console is gone now this video needs to be updated again without the use of spotify
+its a little different now but you can still perform the same requests he39s demonstrating
+what are api for
+i fell asleep to john stewart and ended up here
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt695615556a how can i do this on windows
+i think     that api is just and ide for apps
+a hrefhttpwwwyoutubecomresultssearchquery23speedspeeda control was clutcha hrefuckszu2wh9gy1mb0dv11ujgxsify4oqcd2t29sp54iasawaa hrefuckszu2wh9gy1mb0dv11ujgxsify4oqcd2t29sp54iasawaa hrefuckszu2wh9gy1mb0dv11ujgxsify4oqcd2t29sp54iasawa i like that such a real underrated a hrefhttpwwwyoutubecomresultssearchquery23tooltoola
+a hrefuckszu2wh9gy1mb0dv11ujghcify57lbjxp6akbx4cocaaa hrefuckszu2wh9gy1mb0dv11ujghcify57lbjxp6akbx4cocaaa hrefuckszu2wh9gy1mb0dv11ujghcify57lbjxp6akbx4cocaa
+mr beast  teach mode
+man most of the middle of the video was about sms but in turkey i could not get a message from twilio sad but true
+what the hellll
+that is not working at all i cannot find the oauth in the official website of spotify which disable other operations
+i love those jokes hilarious thanks craig
+not a fan of this longwinded tutorial at allbrbralso injecting unfunny quothumorquot and silliness throughout the tutorial does not help your audience
+great videobrbrspotify have updated their dev page and now it39s quite hard to get the oauth token it39s not as simple as in the video would be good if the notes have this in mind
+i found a post from spotify community gt web api reference quotget tokenquot button where they give you a working solution
+how to get it now pls help
+akxshkrishnamoorthy yeah i am unable to do so too
+how can i get the conversationsid
+i can39t get the full request sample from the new spotify page
+so good i sent myself an email link for future viewing
+what are the certifications that we can obtain
+this man deserves more money
+we call these   curly bracelets
+key takeaways for quick navigationbrbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrw0000a b craig dennis offers an updated beginnerfriendly api course taught by an experienced developer educatorbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt290029a b the course assumes basic coding knowledge and familiarity with web concepts but starts from the ground up covering what apis are why they exist and their benefitsbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt2020322a b the course begins by breaking down the term quotapiquot and its significance then delves into handson experience with web apisbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt2570417a b learners will build a web application utilizing existing apis focusing solely on using apis rather than creating thembbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt5220842a b apis serve as contracts defining usage expectations and facilitating communication between software components locally and remotelybbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt12372037a b http requests and responses contain crucial information like headers status codes and content type facilitating effective communication between clients and serversbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt13832303a b understanding basic concepts like http and statelessness is crucial for comprehending restful apis which build upon these principles to expose and manipulate resourcesbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt14992459a b rest apis follow clientserver architecture and are stateless requiring clients to maintain session details and send them with each request adhering to rest constraintsbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt16172657a b resources in rest apis are abstract entities representing objects like books or photos with crud operations create read update delete commonly performed on thembbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt17032823a b restful apis allow interaction with various applications via http methods enabling data retrieval task automation and integration of different services for versatile functionalitybbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt23083828a b when interacting with apis it39s crucial to protect sensitive information like oauth tokens to prevent unauthorized access to your accountbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt23683928a b apis like spotify39s offer various functionalities allowing users to search for artists retrieve information about them and access their music librariesbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt25784258a b exploring apis opens up opportunities for innovative app ideas such as a music festival app that suggests bands based on users39 listening habitsbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt27134513a b transitioning from exploring apis on websites to making requests using tools like curl provides handson experience and deeper understandingbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt30125012a b navigating apis through urls and using tools like jq for data parsing empowers developers to interact more efficiently and effectively with api endpointsbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt33445544a b apis like spotify often use curl in their documentation to demonstrate usagebbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt33725612a b twilio offers apis for various communication channels like sms calls and emails making it versatile for developersbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt34625742a b twilio39s apis abstract away complexities enabling developers to send text messages with a single command without needing to understand underlying infrastructurebbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt34915811a b signing up for twilio39s trial account provides access to its apis without requiring a credit cardbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt3625010025a b twilio39s developerfriendly interface allows users to choose coding language preferences and provides serverless hosting optionsbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt3832010352a b twilio trial accounts have limitations such as only allowing messages and calls to verified numbersbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt4370011250a b using jq can make json responses from apis more readable and organized though it39s optionalbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt4426011346a b start exploring apis visually with tools like postman which offer userfriendly interfaces and featuresbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt4524011524a b explore api documentation and interact with apis using tools similar to postman like rest fox for easier experimentationbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt4677011757a b organize api requests by grouping them in folders within tools like rest fox facilitating navigation and managementbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt5269012749a b adjust api requests such as switching between get and post methods and configure parameters like headers and body data for specific functionalitiesbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt5447013047a b when using twilio for sending messages via rest api authentication with username and password is essential and media urls can be included in the message bodybbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt5535013215a b setting up environments in rest clients like postman or rest fox helps avoid duplication of authentication credentials and allows for easy management of variables like account sid and auth tokenbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt5712013512a b environment variables in rest clients allow for easy sharing and modification of sensitive information like phone numbers and authentication tokens across requestsbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt6556014916a b helper libraries or sdks specific to programming languages help make code more concise readable and offer additional documentation support within editorsbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt6786015306a b setting up environment variables and installing necessary libraries are essential steps when working with apis and helper libraries in local development environmentsbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt7572020612a b by using the await keyword asynchronous functions can be written more clearly allowing for synchronouslike execution flowbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt7772020932a b incorrect function name errors can be caught and rectified ensuring proper execution of codebbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt7833021033a b removing messages from an api involves calling a method on the message object which initiates a delete request via a rest api callbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt7973021253a b helper libraries for various programming languages provide a consistent and standardized approach to interacting with apis maintaining uniformity across different languagesbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8089021449a b commandline interfaces clis offer a convenient tool for making api calls directly from an executable on your machine commonly used for automation tasks or interacting with cloud servicesbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8146021546a b integrating helper libraries within applications simplifies api usage and enhances functionality enabling tasks like batch scripting or automationbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8176021616a b building web applications that interact with external apis can be achieved even without extensive coding knowledge focusing on integrating apis into existing frameworksbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8609022329a b deploying web applications has become easier with serverless technology eliminating the need for managing physical servers and infrastructure and providing scalability and reliabilitybbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8667022427a b twilio can host web applications using its serverless environment allowing developers to serve html without managing traditional web serversbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8754022554a b functions in twilio are commonly used to power applications including handling responses to incoming messages and can be edited in an integrated development environment provided by twiliobbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8818022658a b serverless solutions like twilio handle scalability concerns allowing developers to focus on building applications without worrying about infrastructure managementbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt9205023325a b developers can use twilio39s helper libraries and twiml twilio markup language to construct and return structured responses to incoming messagesbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt9413023653a b with the ability to host applications developers can design and implement custom apis using twilio functions simplifying the integration process for frontend developersbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt9617024017a b twilio functions allow developers to create apis easily with the ability to automatically return json responses based on the provided databbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt9790024310a b javascript code to access twilio rest client allows authentication using context object with account sid and auth token providing access to twilio services within a functionbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt9888024448a b environment variables can be used to securely store sensitive information like twilio credentials enhancing code readability and securitybbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt10123024843a b dynamically populating an array with image urls and descriptions retrieved from twilio messages ensuring proper formatting for displaybbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt10267025107a b explanation of shaping data from api responses to match desired format for client applications highlighting the importance of data formatting and accessibility considerationsbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt10638025718a b integration of serverbased api with clientside application using web api fetch to retrieve data from the server demonstrating the practical application of apis in web developmentbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt10840030040a b apis can be accessed with minimal lines of code highlighting the simplicity and power of api integration for retrieving usergenerated contentbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt10870030110a b apis accessed from clientside applications may lack authentication necessitating serverside handling of sensitive information to prevent exposurebbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt10928030208a b evaluation of api architecture against restful constraints identifying areas of compliance and improvement for future developmentbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt11016030336a b understanding restful constraints like uniform interface helps assess api design and its adherence to industry standardsbbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt11133030533a b completion of the course includes resources for further learning on rest api constraints and frameworks empowering learners to continue exploring api developmentbbrbrmade with harpa ai
+nice explanation thank you sir
+what are the best prerequisite videos to watch before this one  to cover the basics he mentioned toward the beginning
+what does this mean quotnote if you are running powershell delete the curl alias for invokewebrequest by adding the following command to your profile cusersltusernamegtdocumentswindowspowershellmicrosoftpowershellprofileps1quot
+by default windows power shell has an alias set up for curl which maps quotcurlquot to a different command you can get around this by either following the note or by explicitly typing curlexe instead of curl when running curl commands in powershell
+what is that device a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt446811428a
+spotify console has moved to a quotconsole likequot page at the home page this tut looks great but hard to follow in 2024
+you use your computer terminal during the spotify api section curl runs on mac without any install
+why is this guys so good at explaining this
+quotahoy worldquot
+too much noise stick to the topic and stop story telling too much time wasted
+this is the most amazing video
+started listening to beyonce after this course
+am i the only one or you also think him as mr beast
+3
+hello  i39m craig and i39m a developer my age is 24 with a face of an old person
+this educator immediately reminds me of my favourite teacher of all time i was 14 in 9th grade in new delhi and the teacher was mr atri and he taught us mathematics an absolutely brilliant man and an amazingly intriguing teacher who taught me mathematical concepts that i still remember to this day and i39m almost 35 years old now
+appreciate the pokemon reference at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt14592419a mark for quotgotta collect catch them allquot
+50 minutes in how do i get the authorization token to paste in curl format
+did you get yeh token
+i could not find it either
+shifasheikh9261 no they39ve changed their website
+chop a bulk of knowledge into pieces lecture then make lil bit fun respectively i can tell you make me fully focus on ur vid thank you sir a hrefuckszu2wh9gy1mb0dv11ujgepgfyk2kp6mr8op1oqawaca
+right now im at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt14452405a till now so much of tqlk with bad jokes as a distraction just teach what i came for man
+wow it was all so clear and well explained i even laugh a lot with your jokesbrnice job craig
+i was stuck at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt611214152a  i needed to uncheck quotdisable inherit valuesquot
+i hate the bad jokes such a huge distraction
+i didn39t know that  thing in gmail thank you will help me a lot
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt14232343a
+every school needs one craig
+unfortunately i was unable to do the twilio part as twilio has blocked my account right after registration they sent me an email asking to provide the reason why i39m using their service after my honest reply that i39m just learning api and a reference to this video they said they couldn39t restore my account because my quotuse case is not supported by their servicequot the video is still very useful and easy to watch thank you
+you are wonderful thank you for blessing us all with your wisdom and expertise
+please stop with humor
+bald mrbeast
+2
+i don39t know how to code yet i am a bit lost in this video yes he dresses it up nicely  but  not sure if he is really happy in all that mess maybe he is
+this dude is saul goodman
+i39m so hyped and that teacher hypes me even more explations superb
+oh this is exactly what i was looking for thank you so much you are a fantastic teacher
+great teacher but i wish so many of the examples weren39t done with something so quotconnectedquot tons of verification required for using twilio which really slows things down twilio verification changes in november 2023 made it impossible to actually execute those examples as a hobbyiststudent if you39ve got some experience in development you can adapt these examples as needed but for novices it may be a bit more difficult to follow along than was promised
+yeah i can39t use the twilio or the spotify example do you have any other sites that offer similar dev resources to test with
+i am using windows 11 and i can not see any of the spotify stuff you are teaching it only work on mac os
+worked up to 4ku on codewars learning to functionally program around small isolated problems and then ran into an api project and have no idea where to start forums and searches led me here it39s weird feeling like you learned something only to realize you can39t do anything useful with it hoping this video helps edit on the way
+why this guy looks like mr beast father
+1
+so api  function
+woke agenda in this tutorial
+this is great i am struggling in the spotify part with the oauth like dennis mentioned the ui has changed in the dev section brhas anyone been successful with the oauth part i keep getting a 400 error
+daverobertson8138 did you get the oauth token where did you get it from
+shifasheikh9261 they require you to create an app id to get an oauth token now i recommend skipping that part of the video
+definitely a tutorial to watch for learning with immersive experience
+i do like the fact that freecodecamp gives us these informations for free but i just can39t stop getting annoyed by the fact that craig dennis used twillio api which is the company that he works for it39s like promoting yourself i would not care if it was a free api but it is not and it39s not worth the hassle don39t get me wrong in anyway i am grateful for this course but wish he would have used a free api which would give us a tool in our repository instead of an api we will only use for 10  15 messages give or take
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrw0000a learn about apis and their benefitsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt3100510a interfaces and apis abstract away implementation details for users and developersbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt9721612a rest revolutionized remote apisbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt12932133a rest apis use http protocol and headers to communicate with resourcesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt19043144a spotify api uses rest principles and requires authorization for specific databra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt21643604a creating a new spotify account for developersbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt27604600a learn how to use curl to make api requestsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt30265026a learn how to navigate and query urls using jqbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt35845944a learn how to use twilio apis to send text messagesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt384810408a learn how to send sms using twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt440211322a explore apis with visual tools like postman and rest foxbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt468611806a learn how to filter incoming messages using twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt528612806a switching from get to post for sending messages with twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt559613316a using environment variables in rest clientsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt618414304a postman is a powerful tool for exploring apis and generating codebra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt645414734a helper libraries or sdks can make code more concise and legiblebra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt704215722a using asynchronous javascript to list messagesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt733920219a learn about asynchronous javascript and catching errors with promisesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt792721207a helper libraries abstract away http api callsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt822221702a setting up a local web server to view indexhtmlbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt881522655a serverless solution allows worryfree scalingbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt912623206a create a messaging response with twiliobra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt970124141a using twilio functions to access twilio rest clientbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt999824638a create a gallery of images from twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt1056825608a creating and consuming apis using fetch and json
+this video was amazing great just great thanks fcc and craig for your dedication
+hey someone please tell what are the preliminary requirements before starting to learn this i am a beginner non it  have some understanding in networking and python programming
+what a messed up video
+i can use kali linux apps can i programm
+10mins into the course but i have to thank him for making learning so fun he39s a really good teacher
+very informative thank you
+for those wondering what was that on a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt6221022abrbrit39s in ruby language brchrord39y39  0x20brbr1 ord39y39  the ord method in ruby returns the ascii code of the character passed to it in this case ord39y39 returns the ascii code for the character 39y39 which is 121brbr2 0x20  this represents the hexadecimal value 20 which is equivalent to 32 in decimalbrbr3  xor operator the xor exclusive or operator performs a bitwise xor operation on the binary representations of two numbersbrbr4 ord39y39  0x20 this bitwise xor operation is performed between the ascii code of 39y39 121 in decimal and 32 the result is 89brbr5 chr89  the chr method in ruby converts an ascii code to its corresponding character in this case chr89 returns the character with the ascii code 89 which is 39y39brbrso the overall expression chrord39y39  0x20 takes the character 39y39 performs a bitwise xor with 32 resulting in the ascii code 89 and then converts that ascii code back to the character 39y39
+well done for the info i like how you broke it down into pieces for better explanation
+this also works with python
+also the old video showed python at that part so it is not ruby
+when i first started programming i really couldn39t understand xor or its purpose wish i read this back then
+i can39t stop the video
+i don39t want to take a single breakbrun till i understand what is api
+waste of time
+curl for spotify doesn39t work for me i have 39invalid access token39 error why
+di developer interfaceas opposed to ui is better than api
+i wish your video will also be available in multiple languages like hindi i find difficult in understanding in english
+i cannot verify my number at twiio what should i do
+amazing course  i39ve purchased a course from udemy that i followed during days and didn39t understand apis to be honest but this video made a lot of things very clear
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt27004500abra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt444011400abra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt648014800a
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt702015700a
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt810021500a
+where has the console gone in spotify
+i am getting an unexpected token error when trying to run explorejs anyone seen this i am doing exactly what i see but in windows
+why does he look like mr beast
+he even talks like him
+this api course is interesting and funny
+i got a project to manage apis and this course helped me sooo much to better understand what am i getting myself into  thank you soooo much
+great course i was trying to follow along with the spotify example and i cannot find the spotify web api console i found a post in the spotify community where someone was asking where the console was but there was no response does anyone know how to access the console if it is still available
+i ran into the same issue did you figure it out
+payambabakhanlou7145id skip spotify they changed the interface you also need an app id if you want to get access
+unfortunately it looks like spotify have changed their web developer user interface in the uk at least and the process for getting started with using spotify39s api is very different to how it looks in this tutorial there is no longer a console that you can access from your browser you have to install multiple quotpackagesquot locally on your machinebrbrspotify have made a tutorial spread over a dizzying number of hyperlinked pages to build an app so in order to do the first tutorial for this video which requires the console i went through some of the process not knowing what i was installing or what i was doing to try and get a command line environment that accesses spotify39s api and eventually gave up it didn39t seem like that process was going to get me to a point where i could do the exercise in the video  brbrmaybe spotify view having their own tutorial as an even more accessible developer environment but it made following this video impossible for me
+i also have the same problem and i39m really frustrated to be honest
+samegabirilwan1987 really frustrating i finally found a course with a teacher that seems great and none of it works
+9 months later beyonce has not 32m but 46m subscribersi wonder how many of those came from watching this tutorial d
+this was a good course but it got tainted by some political biasesbrjust teach man br
+how to cure depression in 3 hrsbrbrbrthis course is an excelle
+i wish we had teachers like him in our schools and colleges that would have made us better learners
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt24734113a rofl
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt26894449a
+rhetoric
+anybody tried calling the phone number
+he reminds me of mrbeast
+great tutorial but the spotify signup part is unbearable
+i like the break down and enthusiasm
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrw0000a learn about apis and their benefitsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt3100510a interfaces and apis abstract away implementation details for users and developersbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt9721612a rest revolutionized remote apisbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt12932133a rest apis use http protocol and headers to communicate with resourcesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt19043144a spotify api uses rest principles and requires authorization for specific databra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt21643604a creating a new spotify account for developersbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt27604600a learn how to use curl to make api requestsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt30265026a learn how to navigate and query urls using jqbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt35845944a learn how to use twilio apis to send text messagesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt384810408a learn how to send sms using twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt440211322a explore apis with visual tools like postman and rest foxbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt468611806a learn how to filter incoming messages using twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt528612806a switching from get to post for sending messages with twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt559613316a using environment variables in rest clientsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt618414304a postman is a powerful tool for exploring apis and generating codebra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt645414734a helper libraries or sdks can make code more concise and legiblebra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt704215722a using asynchronous javascript to list messagesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt733920219a learn about asynchronous javascript and catching errors with promisesbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt792721207a helper libraries abstract away http api callsbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt822221702a setting up a local web server to view indexhtmlbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt881522655a serverless solution allows worryfree scalingbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt912623206a create a messaging response with twiliobra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt970124141a using twilio functions to access twilio rest clientbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt999824638a create a gallery of images from twilio apibra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt1056825608a creating and consuming apis using fetch and jsonbra hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt650105a understanding restful api constraints
+api self learning
+api
+terrific teaching but i couldn39t get the image to work the text came thru with no image and i don39t think the suggested image was in the notes i couldn39t find it anyway as a result i also got a 401 when following the thunder client section
+this content is so well put together  thanks
+xerox parc is perhaps one the most underrated companiesorganizations in our history being one of the most innovative yet most would rather believe that apple is at frontier of pioneerism but did they invent ethernet the gui the computer mouse the desktop interface objectoriented programming language how about the laser printer all they have done is steal ip
+youre superior for creating this hosting video ive experimented with hostgator and godaddy however cloudways with tst20 coupn is the best cash saver
+i was summonded for jury duty on the day i was supposed to start a new gig  i had to explain what an api was to the judge  my little wheels were churning so i didn39t sound condescending but explained it enough  i came up with the rosetta stone translations that couldn39t all be stored on a phone so api calls from a little phone app would be made to a website or cloud repository
+thanks for the amazing video
+awesome and lively presentation
+happy early birthday its oct 9th atm
+who runs the terminal curlloved that joke good video thank you
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt14002320a
+very clear video thanks everything39s clear
+ive got your token and im about to do very evil things with it
+that little beat at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt10861806a is crazy
+thank you so much for this course it39s very well made useful and better than some paid courses i have seen
+craig dennis is awesome
+best teacher everrrr
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt33555555a did end up being so funny because i zoned out and back in and you were still talking about 39who runs the terminal39 curl beyonce link ha but i wont forget that link now either
+when i copy the request sample from spotify it39s not working in cmd
+spotify not providing authtoken anymore i just followed the steps
+always showing no token provided or invalid access token how can i generate this this is getting annoying
+did you find a solution i have the same problem maybe all next parts of this course will consist old not working stuff i dunnobrbrbtw looks like there are really few guys including us who trying to do it with course39s author that39s interesitng
+den1snovikov no i didn39tbrbri didn39t continue the course as well due to frustration
+thankyou so much
+thanks for the good web hosting knowledge ive examined hostgator and godaddy however cloudways with tst20 coupon is the budgetfriendly selection
+spotify console is no longer here so following along is really hard
+i cant get an accces token to run the code in my terminal
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt26264346a just here to say that the line on beyonce taking the api dev to red lobster wasn39t lost in the crack clever wordplay
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt25784258a
+who runs the terminal
+you are or male or female thats it
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt575935a apis are like functions that could be called over the internet
+i think the api is updated and now to get the token we must already create our app to get the token
+exploring spotify api and my token is being shortened how can i fix that
+my curl get request isn39t working in the terminaleverything seems to have changed since the time upload of this course the token is incomplete how can i fix that
+i couldn39t get the twillio command line code to work and kept giving the error message that no credentials provided twillo must have changed regarding using a test account in command line because the support materials state that quottwilio test credentials will not work with twilio cliquot otherwise i agree that this is a good course i know things do not remain the same and get changed sometimes
+did anyone have any issues trying to find console on spotify wanted to follow along but i guess spotify updated and i could not follow along
+the spotify dev page has changed considerably and feel its extremely difficult to follow this class now
+i don39t know why but this guy is look like old mrbeast
+lmao that39s exactly what i thought
+craig looks like mr beast grandpa
+was the best course until you stopped talking about the course information and starting talking about people39s gender
+htt pbrhtt p
+spotify has changed their api docs there isn39t a console anymore
+most woke teacher ever why is he apologizing after making every pun if you39re so embarrassed after making it just don39t make it ruined all the fun of those pins with his followed apology
+apppostquotapiquotbrasync def postcommentbr    return jsonresponsestatuscode200 contentquotfcc you rockquot
+i can39t do the spotify web api from my terminal because it hides the access token even when i hit the copy button on spotify it still doesn39t give me the complete token and then says quotinvalid access tokenquot for the error reason the interface has changed quite a bit since this video there wasn39t anywhere to create the token and it certainly doesn39t look like the one in the video so none of this works for me
+hi bro i have the same problem the the user interface changed and console link not availble
+you cannot  prove any api  with tty
+the course is going great so far one thing though how do i get the oauth token from spotify39s api from their updated website that has been an issue
+this guy has the maximum value of charisma
+this guy is amazingbrbrhes hit all the right spots of a good course
+consult and implement your api integration
+pretty good job thanks
+huge thanks to craig dennis and freecodecamp this is truely an amazing and helpful video
+i just cant find the way to generate the token it seems the interface changed and well i am stuck there
+great course thanks so much for referring to your first example programmer as she
+my kind of teacher
+if api is not invented  what would happened
+best teacher i ever met
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt30705110a
+boo on the inclusivity add just teach us about api39s
+i love your teaching style  makes it less daunting to learn  i did get stuck on the twilio example when i ran the curl code in a hrefhttpcolabgooglecolabgooglea it returned a syntaxerror invalid decimal literal  i tried to figure it out but it was over head  i tried to find that darn decimal and could not  any direction would help please otherwise thank you for taking the time to make this for us who need it
+that video is very informative helped me a lot to understand api39s
+ok at this point i need to donate or something because this is such high quality educational content
+this is one of the most playful and fun tutorial freecodecamp has ever added
+the spotify developer console isn39t currently available from jan 2023brplease update the course
+very good content by the way i found it hard to learn elsewhere the new tech since last 13 years recently i got my visa approved for canada and i m looking to move there i heard they have more requirement for this skillset in combination with mainframe could you please elaborate how mainframe use restapi as a front end i think i heard you saying api is always backend so what is my company implying by using backend data with involvement of zos connect and postman we use 3270 mainframe systems and 3270 online front end system i heard they implemented  a system fix by using cics cobol program by sending some data to cics and that data i guess was pulled by zos somehow and it was getting rendered on a website in form of something looked like someone created a restapi services using postman and this new api was accessing data from what was printed on a cics job running in queue online during the day when the developer test his changes which is sort of making sense nowcan you help me understand if i m understanding it right
+dude you saying too many pointless words in between that i just cant follow the course
+if anyone is losing their mind because the jq wasn39t working be sure you have it installed first
+just only watched this will go back and do all the bits n bobs  great course explained stuff to me in the words that i needed  thank you
+kay9am3ouk satat
+i keep getting an empty pics array at unit 3  video 3 a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt1047325433abri consoled log the followingbrconst pics  await messagemedialistbrit results in an empty list and after hours searching for the problem i cant figure out why somebody help please
+did you solve this i have the same
+do you guys have a discord community where you can interact with  other programmers on your project
+sir can i become your student
+man the asynchronous js i learned a month ago finally synced in when i watched the video 6 that39s how it works awesome tutorial
+30 minutes in and i39m still not sure what an api is
+so essentially its code that take input from the front end and it send the data in a specific format like json to the backend the server then the server responds with with a http code and with the data that you requested i think in json and the type of api most commonly use is restapi and graphql also api are used to provide the data of your application to other application so if i want info from twitter like profile info likes posts etc then i need to get twitter api functions to request the data i wantlast thing why api are important it allows apps to use data from another app and integrate it into their own apps
+thank god let you go to me
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt22503730a someone points a gun at poor guy39s head
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt22503730a
+very good course if you can ignore the unreal amount of cringe that this guy is capable of a pop culture reference or joke every 2 seconds really a soyboy cringe fiesta
+tried to sign up at twilio but couldnt authenticate and support didnt reply other wise good course
+best videos
+nice video
+feedback please mention about windows not needing the backslashes in the terminal earlier you mention it around a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt405010730a when it would have been better to mention it before actually copying and pasting curl stuff into the terminal
+my bookmark a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt14372357a
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt29944954abri39m stuck at this part as spotify changed how to get access to authorization token you have to run a curl command but when i copy and paste in into my terminal changing the necessary parameters as needed client id and client secret it doesn39t work i39m on windows btw i made sure that curl is installed it isbrwhat am i doing wrongbrbredit nevermind i got it to work its a bit annoying that the text editor i39m using notepad to post the copied code into first to be able to make changes to the parameters doesn39t allow me to copy and paste the code from the text editor to the terminal i have to get rid of any newline characters if anyone more experienced then me can give me some good text editors to work  in please let me know
+did anyone else have a problem getting the gif they sent at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt612614206a i keep getting this error error when sending request enoent no such file or directory open 39homemynameconfigcodeuserglobalstoragerangavvscodethunderclientfilesfilecollier 3849f68b0197gif39 i am unable to access this path as the folder 39files39 under rangavvscodethunderclient is not present
+great course the teacher explain very good each content
+thank you i am trying to catch up on technology enough to understand what is being said everything is connected to used by or based on other things codes protocols okay that list could go on but the only thing i knew about api39s was that my wordpress needed one and i have to update mine every once in a while i knew it was a type of identifier but that was all then i started hearing more talk about api39s in the talks on ai artificial intelligence
+very well explained sir i have loved the examples thanks so much
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt7341214a  cha cha cha  krij
+thanks for valuble inf sir
+i was assigned a task at my job to do some testing automation using apis and this course was a huge help always try to find a real world problem or something to apply what you learn to for maximum advantage
+a member
+an excellent instructor explaining a not so easy topic
+this is cringey i39ll find api tutorials elsewhere
+your beatboxing is atrociously cool a hrefuckszu2wh9gy1mb0dv11ujgksify6lzfolm6akanydqaga
+now spotify has changed it39s developer options  i can39t get it39s oauth token
+same here idk how to get a token have you done any solution
+yoayis none  i am clueless about it
+bluebon5228 aight appreciate ya brotha
+male and female are the only genders that existbrlet39s not normalize gender dysphoria mental illness
+hello
+the best instructor i came across so far simply the best introduction to api
+he is just such an awesome person i39v never been to a class where the teacher asks me to take a break
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8001320a
+this man had to change his phone number
+i39m only here to try and connect freedomgpt to ultimate doombri want to see if it can play a perfect game can anyone help me accomplish thisbrit told me it needs to connect to the api
+thanks so much for such an awesome video
+superb course thank you freecodecamp
+kartik sapkal from terminal
+god i love the way he teaches
+anyone else having trouble in unit 2 using restfox for that first post lesson  i keep getting error
+hi why cant we see the developers option in spotify  when i try i don39t see a developers option mentioned in video
+thank you chris hardwick39s doppelganger only a third of the way through but i39m enjoying it
+can39t get authorization by spotify who cam help me to get it
+it was a good start till the interface in api was explained but after that i find it difficult to follow as a beginner in this field it was very much engaging though would have been better if things were made simpler to understand
+you guys are amazing what a great job
+is there a summary of this course why does using api need a 3 hour video just get the key and read the manual on using the proper tools and parameters
+yeah it39s in the description
+i mean the key points from each of his unitsvideos description is just the outlineoverview which of course i saw
+can anyone help me where can i find notes for this course
+tommorrow i have to submit my final year cs project synopsis  and here i am learning apis   what can i do
+hi thank you for the great tutorial i have a question do i need to have a premium account to follow your tutorial because i don39t get the option quotget tokenquot
+the developer page has changed and i am having trouble with the oauthtoken any tips or help would be greatly appreciated
+this is sooo good thank you for this awesome course i feel the power
+the only thing i achieved from this video was confusion  it was too cumbersome and i just found it really hard to grasp
+im getting empty message but i followed all the steps 125mins the response was 200 which is sucessful but my message was empty i need help please
+are you talking about minute a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt1047325433a because im stuck at that point and dont know if you figured it out
+so frustrating  major issues with accessing the spotify web api via terminal they changed the whole dev interface i keep getting 401 errors when i take the code from spotify to my terminal
+same
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt29054825a
+its awful that twilio blocked my account as soon as i created it i think because i live in russia
+whats the name of the type of music played during the breaks they are so relaxing
+i stuck in a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt29504910a still can39t figure out why i can39t get spotify artist or playlist locally using windows powershell
+this course no longer works the spotify webpage is totally different and it doesnt even give u the code with ease would recommend people to follow another api course
+i love u
+3 minutes in and the guy is better than any teacher or lecturer ive ever had
+why online teachers always feel better
+nailed it thank you
+can any one share summarymain points of this whole video like what is the main idea if any one have made notes of this video than please share in text form thanks
+wow amazing tutorial goat
+can i just say how impactful it was for you to make your developer a she at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt413653abrits little instances like that that you may think people wont care about or notice but just about made my day representation brbryou are a great teacher off to watch the rest
+thank you you guys are awesome
+can anyone help me out
+unable to find console in spotify
+spotify web api reference is changed and now that whole part of the course isn39t so easy to follow  cant get curl to work right with the samples they give nor do i think spotify so freely gives out the key code in terms of ease of access
+i thought i am the only one facing this issue
+yo sameee i copy their curl and it just return invalid access token
+great video thank you
+fantastic content keep it up
+your style of delivering the material is absolutely fantastic thank you for your hard work
+let me just thank you before watching this video api39s were so scary to me these days i feel a bit more confident because of your help thanks
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt22543734a tell me youre a braindead npc without telling me youre a braindead npc
+snowflake
+hizkylized what about them
+i screamed p
+the best of best course ever seen in youtubei guess i found this earlierthank you for making it free
+can he make a video on how to teach
+waste too much time on quotjokesquot
+this is an excellent video thanks very much for providing this great content
+this is excellent i followed through from start till finish nobody could make developing and programming easier than this beautiful piece of tutorial thank you for your sincere effort to helping others i will watch over and over until i am able to independently build apis and consume same
+i couldnt get my token form spotify
+i chuckled when his voice got a bit shaky around a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt22603740a  story of my life lol  or at least where i live and work
+did anyone else encountered this error unauthorized  you are not authenticated to perform this request after deploying the html app and how to fix please
+awesome course only issue was that i was not able to complete the send text  request since the twilio api links to members of the us only and i cannot be able to send messagesbrthank you for the course really helpful for starters
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt11231843a universal resource locator
+i wish every youtube video would encourage me to get up and move around for a bit love it
+i love watching youtube and learnin new stuff i always come to youtube when i want to know something
+the way you explain never makes me bored thanks
+this is completely offtopic but am i the only one who sees some mrbeast in him
+true he looks like mrbeast
+am i the only one who thinks that he looks like mr beast
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt2955httpsyoutubewxsd0zgxjrwt2955a  the authorization token in the curl request samples on spotify39s developer page is no longer available to copy to a rest client this means that following this tutorial will result in authorization failures
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt26854445a you got me craig ofcourse with this level of engagement of anyone would binge your tutorials
+turned it off at the a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt22453725a mark  absolutely ridiculous  there is no need to fuel the flames of mental disorder  there are only 2 genders  there always have been  that is just simple science and a natural law of the universe  mother nature  saying that is not uninclusive it39s literally just a fact
+true but that39s his opinion we are just here to learn about api
+the only mental disorder is you refusing to learn something because it hurt your feelings a hrefuckszu2wh9gy1mb0dv11ujgygf1xpgummjk8gsdri2wcxa
+how childish
+love this course but the amount of commercials is insane
+absolutely love the energy wonderful instructor thank you all so much for the free knowledge
+very nice course thank you
+loved loved loveddddd this thank you
+3 hours of ads
+api is not an acronym it39s an initialism
+maybe an interesting course but spotify changed twilio tells me my german phoneverificationnumber is expired 5 sec after receiving  for me it makes no sence to continue who knows what will be after 1 or  2 hours learning not happy
+for the windows user i39d suggest using gitbash instead of the command prompt that way the commands used in curl are the same just like mac and linux
+i have been stuck on this part for an hour trying to get it to workbrthanks
+can you be more specific about using windows at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt684015400a i39m a bit lost can retrieve the token nor the sid and i can39t move on
+mando6707 are you using command prompt gitbash or another terminal
+yo bro use npm init at the base of your directory to start node projectmando6707
+i was stuck on this until i realized i wasn39t the only one thanks for your comment
+oh i love this teaching method
+came here because everything in the cloud is an api call anyway don39t mind me just making myself some notesbrbrinterfaces provide a way of usinginteracting with sthbrapi allow programsprogrammers to use stuff without knowing the implementation for common enough tasks
+the teacher earns my attention from the first second this video was recommended by youtube and i am so excited i am learning python and why not to take a course on api39s by a great instructor so excited your students and your family must be proud of you i have take so many online courses i have to say you have the best way of teaching thank you
+with neurolinks coming you mite get to download dancing
+so is this video the course
+video 3
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt12692109a
+love this
+what should i watch first https method video or this api one
+but where is the developer console has it been renamed or what i39m stuck
+hey everyone unfortunately he is right about the spotify page being different problem is they39ve removed the ability to generate authentication tokens and curl statements in the browser and while still possible it39s a much more difficult process i39d recommend just watching the spotify part and then jumping in at the twilio part
+that makes sense you said it39s still possible to generate the tokens in the browser how do you do that i have been stuck on this step for over a week now thanks
+rentaplace sorry i meant that it39s been removed from the browser and you have to generate your authentication token externally making the request in your languagetool of choice the nice thing is i would not linger on the spotify part the very next api he teaches twilio has it39s authentication token available in the browser and then he shows tools like postman that will show you how to go back to spotify and make that authentication token just watch and do the rest of the video and then come back and do the tougher spotify part after you will know 100 how to handle it
+thanks i decided to come to the comments to see if other people had trouble with the changes to spotify
+runeblade484 i39m stuck here don39t know how to generate the api token how did you get it
+mrhoboninjapirate thank you for saying this i39ve been struggling here for a bit trying to get an auth token and thought it was me
+need free ecommerce api with multiple categories and products
+what is that
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8251345a
+i cannot find the console page in spotify developer page
+this guy is amazing i am wondering how he makes study so enjoyable i want my kid has teachers like him even breaks are included wow
+brought to you by twillio lol
+that was a great course enjoyed it so much bri am curious if it is also possible to receive a certificate after testing our new knowledge of this course
+i don39t understand a word this guy is saying
+is a scam
+accointing by glass mode is a seam
+accointing
+am subscribe
+did not understand some my dig not understanding wont wont go my brain brain wont ferda it must be drunk not for this i watch it
+i keep getting this message when i tried to install curl on my mac quot curl 22 the requested url returned error 404quot any help on how to proceed will be appreciated thanks
+just 10 min into this video and i fell in love with his teaching wow
+great tutorial i39ve had fun the whole time while learning but i39m trying to use twilio and phone number verification is not going through i am in nigeria please is there a workaround for this challenge
+good teacher bad course materialbr spotify api is changing so fast that i could not find the curl requests you show on the current spotify sitebr twilio might be a cool website but no way i give my number and email to try it br you explained really good at the start but then you started talking mostly about the company you work for twilio and things that are not importantbrbrhonest review 2 of 10 and 2 is only for the sense of humor
+do you suggest any other courses
+this course is amazing but since it was creating spotify recently updated their entire developers section and the console is missing entirely and i can39t figure out how to get the oauth token branyone figured this out yet
+i second this it seems like it no longer uses curl at all and the page is now the ugliest shade of purple although that may not be relevant
+you have to create an app and then use a language like javascript to send a request for the token and then manually assemble your own curl statement unfortunately it39s complicated enough to no longer be quotbeginnerquot friendly so i39d recommend just watching that part and jump in at the twilio section or trying a different api tutorial
+mrhoboninjapirate this is what i ended up doing actually
+mrhoboninjapirate ah i see i wasted too much time on this
+its okay
+great tutorial but sadly console is gone with spotify
+hey folks can i know what has been deprecated
+i love this class anyone else getting a 502 error for the twilio developer documentation
+i just cant understand how to use curl with windows
+if gender is not a problem why did they ask
+craig is a very fun and enjoyable instructor but this whole video is pretty much a ii twilio adbrbr i signed up and used it once to send sms but not likely to use it again i did watch whole video made notes
+amazing way of teaching
+why as a developer you cannot afford a better quality microphone
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt22383718a 1999 ganggg
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt415510915a at no point in my life has anyone ever told me that quotahoyquot was ever an unofficial way to greet on the phone
+is this the best teacher i39ve ever come across bryes it definitely is i love this man made learning so funful and enjoyable you just can39t skip any part i rewind when i miss a single statement thanks a bunch for letting him teach
+spotify changed its configuration completely and now i am completely lost   seems waaaayyy more complicated to get a token  i am sooo lost omg
+same i cant even find the console
+same i tried creating an app and using the client secret under setting gt basic information still getting a token error in command prompt
+is it just me or it is impossible to go on twilio  i have been trying to create an account multiple time with different email and everytime i try to sign in the page refresh over and over again and tell e there is an error i did try to reply to trilio39s message when they sent an email about verifying my identity to protect them of fraud but they never replied back  and my account is still blocked  and when i try to create a new account it does the same thing again
+i suffer the same problem remove the quot  quot behind your email in register
+whps51205  i didnt put the  sign and it still didnt let me
+i have no idea how to request oauth token from this new spotify ui it seems like we are required to have an app with uri provided anyone has any clue
+i just typed something random in there i managed to get a client secret i39m not 100 sure if its the same thing as a token i39m guessing not because i keep getting a token error in command prompt
+the guy is a truly righteous and son of god he deserves heaven
+you are a brilliant and gifted educator thank you
+bruhhh this guy is soo fun
+i have not decided if this is a good course or not for instance i thought the speaker was saying 39restbox39 there is a 39restbox39 out there but does not do what his did i played him saying it over and over after reading the notes i learned he was saying 39restfox39 he needs to speak slower and enunciate clearly one should not have to rewind over and over again just to get a simple point
+bookmark a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt473753a
+i wasnt able to find this console thing on spotify at all
+same it looks like there was an update on 3272023  he wasn39t kidding about spotify looking different from the beginning
+this course has been an incredibly fruitful experience for me and i can confidently say that it39s one of the best things i39ve ever done in my life as someone who has been programming for almost a decade gaining a deep understanding of how apis work has taken my skills to a whole new level
+br
+bri39m truly grateful to have had the opportunity to take this course and i want to express my appreciation to those who made it possible this is exactly how education should be interactive engaging and straight to the point the practical handson approach of the course has allowed me to learn and apply new concepts quickly and effectively and i39m confident that the knowledge i39ve gained will prove invaluable in my future endeavors thank you again for creating such a fantastic learning experience
+ha a decade i started to learn coding js and scratched some html and css since a month ago and whenever i meet a new term like i did with api i take a coursebri can not help myself to not know things while i do something and i think it will be my doom in the programming world as i got the feel it would take me forever to grasp all the concepts and terminology
+yeah can you explain the upper is method or api brin this course he said that to change to upper we all need is api
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt21003500a awkwardi was peeing
+bookmark  a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt3686httpsyoutubewxsd0zgxjrwt3686a
+learning this is no use anymore all this is absolute ai taking over the world
+hey when did mr beast started teaching
+forbr5 secs l also was amazed
+my jq did not work i get 39jq39 is not recognized as a in internal or external command operable program or batch file
+nonbinary and quoti dont want you to feel offendedquot what a moron
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt480800a
+extreme cringe
+url is uniform resource locator not universal i only know that because they also got it wrong on university challenge
+sorry if this has already been addressed but i am stuck at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt117157a because i am on windows and neither the linux or the windows options worked to load the environment credentials  anyone else have this problem and maybe a hint what to do  great video btw thank you
+thank you so much i learned a lot about apis from this course
+1  this such a great great class i39m following everything and learning gobs since i39ve been out of the programming world for 10 years
+br2  small issue on setting up restfox to send the dvd picture  no matter what i did it would not send  my final troubleshooting step was to send a very small picture and that worked
+bris there a size restriction causing an issue or am i using the wrong url  what is the url  it is not in the notes
+br3  the notes for unit 2 video 4 are very very sparse can they be touched up
+same issue here can39t seem to send an image even tried a 1kb jpeg but no joy
+dannykryan to be clear i was able to send the much smaller cloud picturebri set up the entire request and sent with an unchecked the mediaurl which worked checked the mediaurl which failed then unchecked the mediaurl and  resent again which worked  this proved that the issue was the mediaurl and it alonebrthen i chose a much smaller picture that workedbri think case matters so mediaurl is not good you have to use mediaurl
+spotify apis are only available for the us uk ireland new zealand and australia markets
+i got completely lost at unit 2 video 4  postmanrest foxi guess i39ll give your first video tutorial i see others mentioning a try
+perfect video for api thanks dennis
+great course
+5 minutes in and am already a fan you are a new subscriber
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt2002a steve jobs is that you
+i learned about this concept in school but it was only briefly covered in a database class and i never understood the point of it until my last job they were manually configuring hundreds of appliancetype devices through their web ui39s which took hours of work one small change request was many more hours of work again i realized that these appliances had an api and we were able to reduce hours of work into minutes by writing scripts that took a list of ip39s and sent api commands to each device in the list i did the same thing on another project and cut my estimated completion time in half brbras someone who is in it but is not a developer even i could see the enormous power and potential of the api it opens the door to automation which reduces human error dramatically it also speeds up onboarding i am looking forward to watching this course and learning more about api39s and their other uses
+how do you know how to write scripts i39m not a developer and have no idea how to write scripts
+emilghiurau you39re on youtube man watch some videos
+how do you send message at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt933223532a
+awsome vid i can only thank you for your effort and time by delivering this amazing tutorial
+best api course ever i never saw any teachers make learning course enjoyable as much as craig dennis he even teach people to take their time to relax and think
+can u deploy a production api after the course
+latinbishop1722 of course not the point of video is to explain api
+seriously
+its terrible  too much unnecessary chat complicating matters bad descriptions that look more like built in adverts and what39s his obsession with byonce doesn39t he even know its a m an
+agreed
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt731120151a
+what a great video  this couldn39t be better explained  thanks  and btw is that an 8track player on the table next to the chair  how old school cool
+this tutorial does not work for windows unfortunately unless you have the patience to do a lot of stack overflow research to find some workarounds to the constant errors
+do i need to install anything to use jq i am using windows 10 for enterprise
+i39m on windows 11 and i just put it in cwindowssystem32  i kept one copy as quotjqwin64exequot and copied another as quotjqexequot
+this is a big move of educational revolution i have started my self study programming journey from fcc from zero level and right now i am in confidence level thanks a lot the whole fcc org and god bless u all from burma
+bro can you please tell me what are the other topics i learn  as programmer
+hello  how39s the journey going
+what actually is an api after lots of code on apis time to know what it is
+how can you move the cursor to the previous line at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt403310713a struggle doing that
+me too i39m literally raging on my machine about it im on a mac laptop perhaps i need a cpu with a 39proper39 mouse
+it39s amazing that he keeps telling us to take a break when i tried to binge the video
+a lot of paience
+did you really need to include all those cringey corny jokes from the old video
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt22563736a  quotprefer not to sayquot maaaay be a valid option for you brbut bryou americans amp europeans need to understand that gender is binary because of physiology brno matter deny it or run away from it
+wow this video came up at the right time thank you fcc and thank you craig for making this a fun journey you have done a really amazing job at not making this tutorial a boring one i really loved the breaks and the things you did to keep the learning interesting throughout the video i wish we had more trainers  teachers like you you rock
+great stuff and well presented thank you however i39m a bit stuck on the terminalclishell thing i39m running windows 11 and there seems to be the to me good old command prompt cmd and the newer powershell in neither of these does 39say39 work nor does it tell me what shell i39m using with 39echo 039  hayelp hayelp somebody help liddle ole me
+the prerequisite is that you have to purchase a mac and live in the apple39s walled garden
+10q profaser i have leseneng mor than 3    4 timems naw i tinck i gone get samteg so tanqu agen i am kepeng lesneng waching  and pracktesing agen and agen antel i intrnalythe all tinkes 10q agen
+haha this guy is awesome
+i can tell this man likes and has eaten many burritos
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt813021530a
+wow  your voice sounds like all three stooges wrapped into one with all sort of up and down range in tone  you gloss over a plethora of terms and really explain none of the actual terms and yet you think we should somehow know what you are talking about for beginners   perhaps all of your friends who commented here to boost your rating or seasoned programmers who have already a good general understanding of all this understands what you are talking about  i have watched the first 30 minutes  3 times in a row  thats an hour and a half of gibberish  and i have no idea zero idea of what you are even talking about
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt7341214a  cha cha cha
+thanks fro this toturaial to api
+the teacher is very energetic joyful and good at teaching attracts people39s attention without boring them i enjoyed his teaching style
+thank you very much a very good job i hope to learn more about api and this is a good beginning
+she might take the api down to red lobster
+jq is not just working on  my windows laptop
+am i misunderstanding something or you need an american phone number to be able to send to your twilio phone number in the trial and follow along with this
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt8401400a  is that a radio with a 8 track
+pretty rad right you can find all sorts of stuff in the prop room
+this is a great course   but the problem i face all the time is that twilio restrict me from getting a twilio number my first account suspended by them after 1 second i created it  after that i created another account with another email but they restrict me from  getting a twilio number also no replies to emailsnow i am stressed about this strugglei was not able continue this course for two days because this issue feel like to give up this tutorialis there a alternative to twilio for following this course
+watch this video you will not regret it such an amazing teacher thank you for such a wonderful course
+when i open the url for quotwho runs the worldquot search in the browser it just opens the beyonc page but not the song itself i noticed that when he does the first search at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt32865446a even though it brings up the wrong artist page the beyonc song is there already at the bottom of the page  i guess because thats the last song played on his spotify profile so that when he then puts in the correct url at a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt33405540a it brings up beyoncs main page but the same song is still there did anyone else have this happen to them and did you manage to show the correct track that was searched for the url itself seems to only refer to the artist but not the search for the track thank you
+i love it when you call me big poppa hahahahahahahahahaha
+pls i need help when using the spotify api the api  testing result on the spotify for developer website   is different from  that of  my vscode terminal testing result
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt24334033a
+a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt529849a
+thanks for this  helped tonnes
+love learning api from mrbeast
+even the voice haha
+best api course on youtube
+this course was brilliantly taught
+ok chatgpt explain this to me as if you were craig dennis
+first off carlos you39ve got this take your time learning xyz and remember at some point everyone has to learn it too this might be a bug in the ai but you got this
+best
+i love this guy39s charisma
+thank you for this lecture
+this whole course feels a bit condescending
+oh no i39m sorry it came across that way for you i actively try to avoid this i appreciate your feedback if you could let me know more about this i39d love to dig into it so i can avoid making others feel this way i apologize for making you feel this way
+please make a course on laravel
+super insightful course thanks craig and freecodecamp
+i want craig dennis to teach me all the hard things in life explain clearly and positively tell me that it39s okay to pause give yourself time be patient  these are important steps in any new business
+hi elena are you a webdeveloper
+i want a oracle sql and plsq
+lost patience at the cringing worship of spotify and downvoted brands are not your friends and being a good consoomer shouldn39t be mistaken for  being a good developer
+getting back interesting data back from an api very clever
+this was fun d
+thank you for making this free i feel such great gratitude
+good one
+how about i have a dhis2 database and it doesn39t have an exposed api to consume the data stored in the dhis2 how then do you create an api to consume the data i was thinking this is what this tutorial will be addressing and not the conventional api tutorials
+i dont know why you thought it would be advanced the  title does say apis for beginners you could also have looked at the details or the comments posting the thumbnails
+are you using terminal on mac the part where you typed jq and changed colors nothing happened for me
+fixed it  needed to install jq from brew
+how does he look better than 3 years ago kek
+three minutes into the video and i39ve learned absolutely nothing about api i doubt the next three hours will be any better time to cut my losses
+thanks for taking the time to comment
+i love how he teaches this guy he reminds me of jesse from breaking bad i have understood things and learned new concepts so i see the light thanks
+i just want to let him know that i actually laughed at the 39who runs the terminal curl39 joke dad jokes ftw
+your a hrefhttpwwwyoutubecomresultssearchquery23dadjokedadjokea feedback has been received thank you
+congratulations
+this is the course that actually thought me how to work with api39s
+i ran the same code and it returned an external url for rihanna39s artist page no matter which way i try it it won39t return beyonce weird not sure what i did wrong or how it keeps connecting rihanna from beyonce i don39t normally listen to either so it39s certainly not some stray data throwing it off
+absolutely love the tone and approach to this course and thank you for making this free
+wish this was written with python
+jq brdoesn39t work on my computer
+what operating system
+thanks for this awesome tutorial
+amazing teacher
+please add advance modern backend development with nodejs and mongodb redis with advanced aggregation and all useful npm packages
+is replit based on api as we can see all the server code running on browser
+i could use an api to abstract away the quotcutesyquot parts of this presentation which would cut it down at least 40 of the distractive nonsense based on what i39ve seen so far i also acknowledge that this could be valuable for some people  but not me
+i appreciate your feedback and also appreciate you thinking about how others might need it i hope it39s not too much once you get out of conceptual town i let the code keep interest i39m still dorky unfortunately
+7footmoustache thank you both for the above perspectives at times even i felt like the whole video could be condensed to 60pc of what it is now  but later i realized there are people who actually benefit from the leisurely pace of learning thank you craig for the amazing video
+vernon howard quotall your costumes are put on in a moment of spiritual sleepquot
+got through the whole thing but when i try to view the indexhtml the link to my picture is broken and on the other hand i really want a burrito
+i found out my issue i messed up the url in my src quotquot url by putting an extra 3939 ii
+you deserve a burrito
+7footmoustache it39s always exciting finding the solution to the error lol brbri hope there are intermediate videos to come  thanks for everything
+it kind of starts 5 minutes in
+2 minutes into the course and already 39i39m lovin it39
+i can39t belive i just saw this video for free you guys are incredible
+great video up until the point we are messing with vs code i can not for the life of me make it work in windows i get error after error after error in the terminal powershell even after following your docs on the description for windows
+thank you for the feedback joo i39ll work on a screen cast to add to the notes
+i would like to thank you here from brazil
+de nada
+bonjour thanks for video tutorial can somebody teach young two ladies for programming android
+very nicebr
+fantastic tutorialbri really felt like watching the 5th season of quotthe last man on earthquotbrhe repopulated the earthbrnow teaching humanity how to use apis again
+can someone pelase tell me how to get permission to get number a hrefhttpswwwyoutubecomwatchvwxsd0zgxjrwampt377510255a
+account info panel
+hi it is good tutorial but what about those who use windows it have encountered so many issues just running the vscode
+oh no pavel i39m sorry what problems did you run into i39ll update the notes the rest of the course shouldn39t matter as it39s browser based
+7footmoustache hi for example when i wanted to create the variables for the twilio id and password i adjusted the commands for windows but it still gives me error that username is required
+huge thx
+apart the cringe humor he is very charismatic and fluid explaining things thanks for the video
+thanks for the feedback sorry for the cringe
+7footmoustache the cringe humor was my favorite part here for it a hrefuckszu2wh9gy1mb0dv11ujgksify6lzfolm6akanydqaga
+i39d prefer that spotify not ask gender  why do they care about that  it39s not being inclusive  it39s intrusive marketing  don39t be naive
+amazing video
+quoteducation isn39t meant to be binged and because of this i39ll probably remind you quite a bit to take breaksquot  the best quote i39ve heard today
+gap learning is great
+so far this video was done right and anyone that watches it knows exactly what i mean
+paused at 4m to get a burrito looks great so far though
+i wonder if they are allowed to say quothe wrote the codequot xd
+cause statistically it39s more likely to be him lmao
+fabulous course thank you
+the instructor looks like mrbeast39s father
+this video is amazing i can listen to this guy all day thank you very much
+detailed explanations great course for beginners
+thank you so much for this
+this is really very excited to me and the host is awesome and the interaction with people is woow
+thank you so much sir your work is very impressive
+may i get a suggestion on how to create an api
+there are multiple ones on this channel using python django net fastapi
+i was just watching the old version great to have a more detailed version
+thank you so much for sharing this with us on youtube  from kyoto  brbrhis api course is hands down the most accessible and lifechanging for dummies like me
+definitely not for beginners and i haven39t learned that much only a few key words like rest crud curl postman and the course has taken 3 hours of my lifebri don39t know why you39re using twilio as everything you said postman is complicated twilio is on a next level of 39complicated39brwhy not use visual studio code and start from scratch using only this editor and show us how to start and finish a working project you39re trying to teach about an api so start a project in vsc take a dad jokes api as an example and teach us how everything works the main objective to use an api is for a website to be interactive and right now i don39t even know how to implement an api on a website so i can extract a user39s custom query and show that data on a website as a resultbrbrthat39s the problem with tutorials right now they39re very long and not practical unfortunately
+i feel you i39ve been self studying web dev for about 6 months needed a refresher on basic api and while this was enjoyable im not sure i learned anything and took me way longer than 3 hours who is this for
+dude youre such an awesome instructor i hope to one day be like you
+i just finish his old api course now there39s an updated one
+i really love this man39s energy he makes learning not feel cumbersome at all
+wow this is the kind of teacher that inspires me the most thank you
+i haven39t made it through this yet but this is very good  great work
+the best video about api
+very fun and cool i will finish it by tomorrow to have a total understanding of api before using it
+craig39s videos always radiate warmth
+the production quality here is amazing
+maybe sth about wiremock
+when i say foo you say bar lmao
+this educator is really engaging great job
+i like the way the tutorial incorporated humor thumbs up
+you just entered my exact date of birth
+twinsies
+coincidence
+does he have youtube channel
+this is awesome thank you
+amazing tutorial to follow
+you are so great  i was waiting for your video  thanks a lot
+the jokes are really good they don39t make me laugh from stomach but an entertaining chuckle is enoughbrto keep me going
+i hope to get at least one belly laugh out of you just one
+the video is so well created brthe editing is extremely goodbrand the explaination is good the fact that first few episodes are just exaplaination is good really good
+really excited for this one saw the first one more than 5 times and enjoyed it everytime love that it is once again being refreshed
+welcome back
+whats the difference between old and new one
+great question sanket this one uses new rest api clients in addition to postman since postman got harder to navigate as a newcomer instead of focussing on python and javascript we leaned into javascript and simplified the app creation process as that wasn39t what folks are here to learn spotify and twilio updated a ton and folks were having a hard time navigating around also i beatbox
+instead of lizzo it39s beyonc
+7footmoustache thanks you are doing wonderful job love your teaching style
+nice
+wow what a great timing will update here once done
+it39s about time
+hoping this is a censored lizzo reference
+i39ve been waiting for this thank you
+where is the course for writing an api  it already exist on this channel
+angmarliche9187 cool
+thank you i was going to show the old video for my class to use apis starting this week
+thank you for sharing with your class i39d love to know more about them
+7footmoustache showing my grade 11s in ib higher level computer science we are getting through material quickly so i wanted to show them something really useful thank you for all your videos i originally learned about apis from the first video and made something that drafted multiple post on google classroom i39m a self taught cs teacher and i would point to your videos as an exemplar online resource
+are you going through my search history
+i will come back in 10 years to see if the likes to this comment is at least 10 to the likes of the video for no reason
+there39s an api for that use the youtube comments api
+thanks a lot
+wow it39s like freecodecamp is really reading my mind was planned to learn api39s and voila look what i got today
+i didn39t knew mr beast had a brother
+mrbro
+was waiting for an api course for a while
+d
+not watched yet but i know its fye
+hi i39m from so paulo
+oh im ready to binge this
+first
+first view and comment along with like
