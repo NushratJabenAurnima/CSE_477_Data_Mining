@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.log
+*.tmp
+.DS_Store
+.venv/
+.env
+# Keep raw inputs out of Git by default (we track processed CSVs instead)
+data_raw/
