@@ -1,24 +1,106 @@
 # Lab 3 — Pattern Mining (YouTube Comments & Captions)
 
-This lab takes the cleaned CSVs from **Lab 2** (`cleaned_comments.csv`, `cleaned_captions.csv`) and:
-- Validates `cleaned_tokens`, drops empties, prints top-20 unigrams.
-- Builds transactions (baskets), filters len<3, optional de-dupe, stats + histogram.
-- Counts co-occurrence pairs (min count ≥ 3), exports CSV, plots top-20 pairs + unigrams.
-- Draws co-occurrence networks with NetworkX.
-- Runs Apriori at supports {0.30, 0.20, 0.15, 0.10, 0.05}; filters rules (conf ≥ 0.60, lift ≥ 1.20); plots support vs confidence.
-- Variations: stemming vs lemmatization, min token length ≥4, separate vs merged datasets.
-- Saves itemsets/rules CSVs and figures in `outputs/` (ignored in git).
+This lab mines patterns from YouTube comments and captions produced in **Lab 2**.  
+It validates tokens, builds transactions, explores co-occurrences, runs **Apriori** at multiple supports, compares preprocessing variants (stemming, token length), and reports insights with metrics.
 
-## Run
-Open `notebooks/477_Lab3_Pattern_Mining.ipynb` and ensure Lab-2 outputs exist at:
-`../Lab 2/data_processed/cleaned_comments.csv`
-`../Lab 2/data_processed/cleaned_captions.csv`
-Run top-to-bottom; generated CSV/PNG files land in `outputs/`.
+---
 
-## Folder map
-- `notebooks/` — Jupyter notebook
-- `reports/`   — (optional) PDF report
-- `outputs/`   — figures, tables, networks, wordclouds (not tracked)
-## Folder map
-- `notebooks/` — Jupyter notebook
-- `reports/`   — PDF report
+## Inputs
+- From **Lab 2**:
+  - `Lab 2/data_processed/cleaned_comments.csv`
+  - `Lab 2/data_processed/cleaned_captions.csv`
+
+## How to run
+1. Open: `Lab 3/notebooks/477_Lab3_Pattern_Mining.ipynb`
+2. Ensure the two cleaned CSVs exist at the **Lab 2** paths above.
+3. Run top-to-bottom. Artifacts are written to `Lab 3/outputs/` (ignored by git).
+   - Figures → `outputs/figures/`
+   - Tables/CSVs → `outputs/tables/`
+   - Networks/wordclouds (if any) → `outputs/networks/`, `outputs/wordclouds/`
+
+> **Note:** The repo intentionally excludes heavy, generated artifacts. Everything is reproducible from the notebook.
+
+---
+
+## Deliverables
+- Notebook: `notebooks/477_Lab3_Pattern_Mining.ipynb`
+- Report: `reports/Lab3_PatternMining_Report.pdf`
+- Generated artifacts (local only): PNGs, CSVs under `outputs/`
+
+---
+
+## Phase-wise Task Checklist (covers all items 1–53)
+
+### Phase A — Data load & validation
+- [x] A1. Load `cleaned_comments.csv` and `cleaned_captions.csv` into pandas DataFrames.
+- [x] A2. Verify `cleaned_tokens` exists and is list-like.
+- [x] A3. Drop rows with missing/empty `cleaned_tokens`.
+- [x] A4. Print top-20 unigrams with `collections.Counter`.
+- [x] A5. Ensure `mlxtend` is available (install if needed).
+
+### Phase B — Transactions & basket stats
+- [x] B6. Treat each `cleaned_tokens` list as one transaction (basket).
+- [x] B7. Remove baskets with < 3 tokens.
+- [x] B8. Optionally de-duplicate tokens within each basket.
+- [x] B9. Assign unique transaction IDs.
+- [x] B10. Store final transactions as list of lists.
+- [x] B11. Plot histogram of basket lengths.
+- [x] B12. Print avg/min/max basket length.
+
+### Phase C — Co-occurrence exploration
+- [x] C13. Iterate baskets to count pairwise co-occurrences.
+- [x] C14. Store pair counts in dict/`Counter`.
+- [x] C15. Keep pairs with count ≥ 3.
+- [x] C16. Plot top-20 co-occurring pairs (horizontal bar).
+- [x] C17. Compare to unigram frequency bar chart.
+- [x] C18. Build NetworkX graph (nodes=words, edges=co-occurrence).
+- [x] C19. Filter co-occurrence pairs to remove stopwords.
+- [x] C20. Export co-occurrence data to CSV.
+
+### Phase D — Apriori & association rules
+- [x] D21. One-hot encode transactions.
+- [x] D22. Run Apriori with `min_support=0.30`; extract itemsets.
+- [x] D23. Repeat with `min_support=0.20` and `0.10`.
+- [x] D24. Filter itemsets by length (keep 2- and 3-item sets).
+- [x] D25. Use `mlxtend.frequent_patterns.association_rules` to compute confidence & lift.
+- [x] D26. Filter rules with confidence ≥ 0.60.
+- [x] D27. Filter rules with lift ≥ 1.20.
+- [x] D28. Plot support vs confidence scatter.
+- [x] D29. Save frequent itemsets → `frequent_itemsets.csv`.
+- [x] D30. Save association rules → `association_rules.csv`.
+
+### Phase E — Variations & robustness checks
+- [x] E31. Try `min_support=0.15`; observe patterns.
+- [x] E32. Try `min_support=0.05`; check for trivial patterns.
+- [x] E33. Swap lemmatization for stemming; compare.
+- [x] E34. Remove tokens < 4 chars and re-run Apriori.
+- [x] E35. Apply the full pipeline to `cleaned_captions.csv`.
+- [x] E36. Merge comments + captions and re-run Apriori.
+- [x] E37. Compare merged vs separate datasets.
+- [x] E38. Reflect on patterns that vanished/appeared.
+
+### Phase F — Visualization & insights
+- [x] F39. Bar chart: top-10 2-itemsets by support.
+- [x] F40. Bar chart: top-10 3-itemsets by confidence.
+- [x] F41. Word cloud from frequent items.
+- [x] F42. Simple cluster/association graph of words.
+- [x] F43. Compare captions vs comments patterns.
+- [x] F44. Write three insight statements (data-driven).
+- [x] F45. Label insights with support/confidence.
+
+### Phase G — Packaging & hand-off
+- [x] G46. Save final cleaned dataset with itemsets & rules (CSV).
+- [x] G47. Save all plots as PNGs to `outputs/figures/`.
+- [x] G48. Reflection Q1: most surprising pair.
+- [x] G49. Reflection Q2: hardest part of mining.
+- [x] G50. Reflection Q3: what to explore next.
+- [x] G51. Compare reflections to a sample response.
+- [x] G52. Bundle submission (notebook + PDF; outputs local).
+- [x] G53. Retain cleaned data & rules for next lab.
+
+---
+
+## Reproducibility policy
+- Large artifacts (CSVs/PNGs) are **not committed**; they’re regenerated by the notebook.  
+- See `.gitignore` in this folder for exclusions.
+
