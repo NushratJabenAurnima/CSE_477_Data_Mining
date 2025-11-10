@@ -1,0 +1,8 @@
+
+# ---- Lab 3 heavy artifacts (keep out of Git) ----
+Lab 3/Lab3_PatternMining_*/
+Lab 3/*.zip
+Lab 3/*.7z
+Lab 3/*.tar
+Lab 3/*.tar.gz
+Lab 3/**/*.tmp
