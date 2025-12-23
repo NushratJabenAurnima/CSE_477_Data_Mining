@@ -8,7 +8,7 @@ relationships between evolving patterns.
 ---
 
 ## Dataset
-- Source file: cleaned_comments.csv ( generated in Lab 2)
+- Source file: cleaned_comments.csv (generated in Lab 2)
 - Each row represents a YouTube comment
 - cleaned_tokens column contains preprocessed token lists
 - Dataset is split into 5 equal chunks to simulate time-based arrival
