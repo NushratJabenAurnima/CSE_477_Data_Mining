@@ -13,11 +13,6 @@ It validates tokens, builds transactions, explores co-occurrences, runs **Aprior
 ## How to run
 1. Open: `Lab 3/notebooks/477_Lab3_Pattern_Mining.ipynb`
 2. Ensure the two cleaned CSVs exist at the **Lab 2** paths above.
-3. Run top-to-bottom. Artifacts are written to `Lab 3/outputs/` (ignored by git).
-   - Figures → `outputs/figures/`
-   - Tables/CSVs → `outputs/tables/`
-   - Networks/wordclouds (if any) → `outputs/networks/`, `outputs/wordclouds/`
-
 > **Note:** The repo intentionally excludes heavy, generated artifacts. Everything is reproducible from the notebook.
 
 ---
@@ -25,8 +20,8 @@ It validates tokens, builds transactions, explores co-occurrences, runs **Aprior
 ## Deliverables
 - Notebook: `notebooks/477_Lab3_Pattern_Mining.ipynb`
 - Report: `reports/Lab3_PatternMining_Report.pdf`
-- Generated artifacts (local only): PNGs, CSVs under `outputs/`
-
+- Generated artifacts (local only): PNGs, CSVs under `Lab3_PatternMining_Jaben_Date/`
+> **Note:** Change the zip folder name using ny editing in the code inside the norebook. The date will uodare inreal time.
 ---
 
 ## Phase-wise Task Checklist (covers all items 1–53)
