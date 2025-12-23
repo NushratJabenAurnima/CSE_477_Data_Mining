@@ -33,17 +33,6 @@ relationships between evolving patterns.
 
 ---
 
-## Repository Structure
-Lab_4/
-├── notebooks/
-│   └── 477_Lab4_Incremental_Pattern_Mining_and_Correlation.ipynb
-├── reports/
-│   └── Lab 4 Report (146).pdf
-├── .gitignore
-└── README.md
-
----
-
 ## How to Run
 1. Open the notebook:
    notebooks/477_Lab4_Incremental_Pattern_Mining_and_Correlation.ipynb
@@ -59,7 +48,3 @@ Lab_4/
   Lab 4 Report (146).pdf
 
 ---
-
-## Notes
-- Time progression is simulated using row order, not actual timestamps
-- Any deviations from default filenames or column names are documented in the report
