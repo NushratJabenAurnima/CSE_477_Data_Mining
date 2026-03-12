@@ -14,7 +14,7 @@ It includes lab assignments, reports, Python notebooks, datasets, and generated 
 - Association Rule Mining  
 - Clustering  
 - Classification 
-- Evaluation and Visualizatio  
+- Evaluation and Visualization 
 
 ## ⚙️ Tools
 Python, Google Colab
